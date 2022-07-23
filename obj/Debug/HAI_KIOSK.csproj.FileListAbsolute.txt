@@ -1,0 +1,101 @@
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\bin\Debug\HAI_KIOSK.exe.config
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\bin\Debug\HAI_KIOSK.exe
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\bin\Debug\HAI_KIOSK.pdb
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.csprojAssemblyReference.cache
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.M_Form.resources
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.Properties.Resources.resources
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.csproj.GenerateResource.cache
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.csproj.CoreCompileInputs.cache
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.exe
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.pdb
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.order_form.resources
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.menu_row.resources
+C:\Users\ShinSeungSoo\Desktop\323232\인공지능과UX\HAI_KIOSK\obj\Debug\HAI_KIOSK.payment_row.resources
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\bin\Debug\HAI_KIOSK.exe.config
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\bin\Debug\HAI_KIOSK.exe
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\bin\Debug\HAI_KIOSK.pdb
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.menu_row.resources
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.M_Form.resources
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.order_form.resources
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.payment_row.resources
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.Properties.Resources.resources
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.GenerateResource.cache
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.exe
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.pdb
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.CopyComplete
+C:\Users\User\Desktop\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.NoiseMonitor.resources
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\bin\Debug\HAI_KIOSK.exe.config
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\bin\Debug\HAI_KIOSK.exe
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\bin\Debug\HAI_KIOSK.pdb
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\bin\Debug\Interop.WMPLib.dll
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csprojAssemblyReference.cache
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\Interop.WMPLib.dll
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.ResolveComReference.cache
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.menu_row.resources
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.M_Form.resources
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.NoiseMonitor.resources
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.order_form.resources
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.payment_row.resources
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.Properties.Resources.resources
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.GenerateResource.cache
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.CoreCompileInputs.cache
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.csproj.CopyComplete
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.exe
+C:\Users\tmd07\OneDrive\바탕 화면\키오스크\HAI_KIOSK_v4\obj\Debug\HAI_KIOSK.pdb
+C:\Users\User\Downloads\HAI_KIOSK_v5\bin\Debug\HAI_KIOSK.exe.config
+C:\Users\User\Downloads\HAI_KIOSK_v5\bin\Debug\HAI_KIOSK.exe
+C:\Users\User\Downloads\HAI_KIOSK_v5\bin\Debug\HAI_KIOSK.pdb
+C:\Users\User\Downloads\HAI_KIOSK_v5\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\User\Downloads\HAI_KIOSK_v5\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+C:\Users\User\Downloads\HAI_KIOSK_v5\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Downloads\HAI_KIOSK_v5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.menu_row.resources
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.M_Form.resources
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.NoiseMonitor.resources
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.order_form.resources
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.payment_row.resources
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.Properties.Resources.resources
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.GenerateResource.cache
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.CopyComplete
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.exe
+C:\Users\User\Downloads\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.pdb
+C:\Users\User\Desktop\HAI_KIOSK_v5\bin\Debug\HAI_KIOSK.exe.config
+C:\Users\User\Desktop\HAI_KIOSK_v5\bin\Debug\HAI_KIOSK.exe
+C:\Users\User\Desktop\HAI_KIOSK_v5\bin\Debug\HAI_KIOSK.pdb
+C:\Users\User\Desktop\HAI_KIOSK_v5\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\User\Desktop\HAI_KIOSK_v5\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+C:\Users\User\Desktop\HAI_KIOSK_v5\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\HAI_KIOSK_v5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.menu_row.resources
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.M_Form.resources
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.NoiseMonitor.resources
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.order_form.resources
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.payment_row.resources
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.Properties.Resources.resources
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.csproj.CopyComplete
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.exe
+C:\Users\User\Desktop\HAI_KIOSK_v5\obj\Debug\HAI_KIOSK.pdb
